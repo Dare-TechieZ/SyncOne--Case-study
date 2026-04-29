@@ -61,6 +61,7 @@ This project aims to create a **unified solution ("SyncOne")** to streamline pro
 ## 📂 Project Structure
 
 SyncOne--Case-study/
+
 ├── caseK2.html
 
 ├── assets/
